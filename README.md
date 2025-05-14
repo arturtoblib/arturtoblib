@@ -46,7 +46,7 @@
   <a href="http://www.linkedin.com/in/arturtoblib" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="www.discord.com/arturtoblib" target="_blank">
+  <a href="www.discord.gg/arturtoblib" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="toblib.artur@gmail.com" target="_blank">
